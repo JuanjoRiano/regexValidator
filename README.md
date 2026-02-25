@@ -11,7 +11,7 @@ A desktop application built with Python and Tkinter that implements a vehicle re
 
 ```
 .
-├── registro_vehiculo.py   # Main application and GUI
+├── formulario.py   # Main application and GUI
 ├── validacion.py          # Validation class (regex methods)
 └── README.md
 ```
@@ -19,7 +19,7 @@ A desktop application built with Python and Tkinter that implements a vehicle re
 ## Running the Application
 
 ```bash
-python registro_vehiculo.py
+python formulario.py
 ```
 
 Both files must be in the same directory.
